@@ -1,2 +1,2 @@
 # Brain-Tumor-Segmentation-UNET
-This was an exercise to practice image segmentation of brain tumors on MRI images using TensorFlow and Convolutional Neural Network with UNet architecture
+Implementation of a CNN centered U-Net architecture for image segmentation of brain tumors on MRI Images using TensorFlow.
